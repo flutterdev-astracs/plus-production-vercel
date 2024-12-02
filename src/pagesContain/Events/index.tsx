@@ -19,7 +19,7 @@ const EventPage = () => {
         scrollColor={"bg-lightPurple"}
       />
 
-      {/* hero section  */}
+      {/* hero section  */}   
       <EventHeroSection />
 
       {/* why host section  */}
