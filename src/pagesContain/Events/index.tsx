@@ -10,7 +10,7 @@ import EventChat from "./sections/EventChat";
 const EventPage = () => {
   return (
     <>
-      {/* navbar  */}
+      {/* Navbar  */}
       <HomeNavbar
         bgColor={"bg-lightPurple"}
         textColor={"white"}
